@@ -1,6 +1,14 @@
 body{
   text-align:center;
   font-family:Open Sans,sans-serif;
-  background-color:#8a71c9;
+  background-color:#212a59;
   color:#ffffff;
+}
+
+h3{
+  color: #c404ff
+}
+
+h4{
+  color: #04ff9f
 }
