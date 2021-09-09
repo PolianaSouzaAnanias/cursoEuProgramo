@@ -5,26 +5,36 @@ body{
   color:#ffffff;
 }
 
-
+h1{
+  font-size: 40px;
+}
 h2{
+  font-size: 60px;
   color: #c404ff;
+}
+h3{
+font-size: 40px;
+  color: #1a228f;
 }
 
 .titulo-verde{
+  font-size: 22px;
   color: #04ff9f;
 }
 
 .titulo-vermelho{
-color: #FF9E9E;
+  font-size: 22px;
+  color: #FF9E9E;
 }
 
 .titulo-amarelo{
+  font-size: 22px;
   color: #ffe36d;
 }
 
 section{
  background-color: #c404ff;
- max-width: 100%;
+ max-width: 70%;
  margin: 0 auto;
 }
 
