@@ -5,10 +5,19 @@ body{
   color:#ffffff;
 }
 
-h3{
+
+h2{
   color: #c404ff
 }
 
-h4{
+.titulo-verde{
   color: #04ff9f
+}
+
+.titulo-vermelho{
+color: #FF9E9E
+}
+
+.titulo-amarelo{
+  color: #ffe36d
 }
