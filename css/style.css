@@ -24,5 +24,8 @@ color: #FF9E9E;
 
 section{
  background-color: #c404ff;
- max-width: 60%;
+ max-width: 100%;
+ margin: 0 auto;
+}
+
 }
