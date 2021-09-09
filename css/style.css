@@ -7,17 +7,22 @@ body{
 
 
 h2{
-  color: #c404ff
+  color: #c404ff;
 }
 
 .titulo-verde{
-  color: #04ff9f
+  color: #04ff9f;
 }
 
 .titulo-vermelho{
-color: #FF9E9E
+color: #FF9E9E;
 }
 
 .titulo-amarelo{
-  color: #ffe36d
+  color: #ffe36d;
+}
+
+section{
+ background-color: #c404ff;
+ max-width: 60%;
 }
