@@ -63,3 +63,14 @@ a{
   color: #99ffff;
   font-weight: 700;
 }
+
+.principal{
+  background: #ff6cb5;
+  height: 40px;
+}
+
+.principal ul li a{
+  color: #fff;
+  text-decoration: underline;
+  font-weight: normal;
+}
