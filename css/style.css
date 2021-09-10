@@ -5,12 +5,19 @@ body{
   color:#ffffff;
 }
 
+section{
+ background-color: #c404ff;
+ max-width: 70%;
+ margin: 0 auto;
+}
+
 h1{
   font-size: 40px;
 }
 h2{
   font-size: 60px;
   color: #c404ff;
+  font-weight: 300;
 }
 h3{
 font-size: 40px;
@@ -20,22 +27,37 @@ font-size: 40px;
 .titulo-verde{
   font-size: 22px;
   color: #04ff9f;
+  font-style: italic;
 }
 
 .titulo-vermelho{
   font-size: 22px;
   color: #FF9E9E;
+  font-style: italic;
 }
 
 .titulo-amarelo{
   font-size: 22px;
   color: #ffe36d;
+  font-style: italic;
 }
 
-section{
- background-color: #c404ff;
- max-width: 70%;
- margin: 0 auto;
+p{
+  line-height: 1.5;
+  font-size: 20px;
 }
 
+img{
+  width: 100%;
+}
+
+ul{
+  list-style-type: none;
+  line-height: 2;
+}
+
+a{
+  text-decoration: none;
+  color: #99ffff;
+  font-weight: 700;
 }
