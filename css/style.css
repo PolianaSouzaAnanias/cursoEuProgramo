@@ -13,6 +13,7 @@ section{
 
 h1{
   font-size: 40px;
+  border: blueviolet 3px solid;
 }
 h2{
   font-size: 60px;
@@ -54,6 +55,7 @@ img{
 ul{
   list-style-type: none;
   line-height: 2;
+  padding-left: 0;
 }
 
 a{
