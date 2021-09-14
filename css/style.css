@@ -7,19 +7,32 @@ body{
 
 section{
  background-color: #c404ff;
- max-width: 70%;
+ width: 60%;
  margin: 0 auto;
 }
 
+section section{
+width: 100%;
+}
+
 h1{
+  background-color: #c404ff;
   font-size: 40px;
   border: blueviolet 3px solid;
-}
+  line-height: 2.5;
+  }
+
 h2{
   font-size: 60px;
-  color: #c404ff;
+  color: #fffbf5;
   font-weight: 300;
 }
+
+h3{
+font-size: 22px;
+  color: #fdfdff;
+}
+
 h3{
 font-size: 40px;
   color: #1a228f;
@@ -64,13 +77,39 @@ a{
   font-weight: 700;
 }
 
+// Defilindo o menu principal
+
 .principal{
-  background: #ff6cb5;
+  background-color: #c404ff;
   height: 40px;
+  max-width: 60%;
+  margin: 0 auto;
 }
 
-.principal ul li a{
+.principal a{
   color: #fff;
   text-decoration: underline;
   font-weight: normal;
+}
+
+.principal li{
+    display: inline-block;
+  line-height: 2.5;
+  margin: 0 89px;
+
+}
+
+body{
+  text-align:center;
+  font-family:Open Sans,sans-serif;
+  background-color:#8a71c9;
+  color:#ffffff;
+  margin: 0px 0px 30px 0px;
+}
+
+button{
+ background: #41f341;
+ border: 1px solid transparent;
+ padding: 2px 20px;
+ border-radius: 3px;
 }
